@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey! I am Parnika. I am currently a budding researcher exploring RL. I usually write about topics I believe have been remarable on my journey and am hugely interested where the interface can happen among wonderful tech of today. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You can check my LinkedIn profile for overview of all my projects linked below:-
+<linkedin.com/in/parnika-siwach>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:parnika3100@gmail.com)
