@@ -9,7 +9,7 @@ Hey! I am Parnika. I am currently a budding researcher exploring RL. I usually w
 ### More Information
 
 You can check my LinkedIn profile for overview of all my projects linked below:-
-<linkedin.com/in/parnika-siwach>
+<https://www.linkedin.com/in/parnika-siwach/>
 
 ### Contact me
 
