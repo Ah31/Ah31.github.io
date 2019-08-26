@@ -13,4 +13,4 @@ You can check my LinkedIn profile for overview of all my projects linked below:-
 
 ### Contact me
 
-[email@domain.com](mailto:parnika3100@gmail.com)
+[parnika3100@gmail.com](mailto:parnika3100@gmail.com)
