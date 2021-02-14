@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey! I am Parnika. I am currently a budding researcher exploring RL and write about topics I believe have been remarable on my journey.
+Hey! I am Parnika. I am currently a budding researcher exploring RL and write about topics that have been remarable on my learning journey.
 
 ### More Information
 
